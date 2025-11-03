@@ -1,6 +1,6 @@
 # Doomscroller
 
-Automated AI video generation and social media posting system for creating passive income through short-form content on YouTube Shorts, Instagram Reels, and TikTok.
+Automated AI video generation and social media posting system for creating short-form content on YouTube Shorts, Instagram Reels, and TikTok.
 
 ## Features
 
